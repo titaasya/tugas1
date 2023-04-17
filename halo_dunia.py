@@ -1,1 +1,2 @@
-print("Halo Dunia")
+print("Halo Duniagit")
+print("Halo AI!")
